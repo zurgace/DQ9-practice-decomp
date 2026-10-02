@@ -1,4 +1,4 @@
-# Dragon Quest IX: Sentinels of the Starry Skies Decompilation Project
+# Dragon Quest IX: Sentinels of the Starry Skies Decompilation Project (please use the main branch, this fork might not work)
 
 [![USA functions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDQIX%2Fdqix-decomp%2Fbadges%2Fusa%2Ffunctions.json)](https://github.com/DQIX/dqix-decomp/actions/workflows/match.yml)
 [![USA bytes](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDQIX%2Fdqix-decomp%2Fbadges%2Fusa%2Fbytes.json)](https://github.com/DQIX/dqix-decomp/actions/workflows/match.yml)
